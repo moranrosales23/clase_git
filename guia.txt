@@ -1,0 +1,6 @@
+npm init // version corta npm init --yes
+npm install jquery // version corta npm i jquery
+npm install --save-dev jquery //version corta npm install -D jquery  esto es para desarrollo
+npm install --save jquery //version corta npm install -S jquery esto es para produccion
+
+npm install jquery express // instalacion multiple
